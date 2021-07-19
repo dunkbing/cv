@@ -15,8 +15,8 @@
         "startDate": "2021",
         "description": "You play as a ball jumping around, trying to survive by not touching the lava.",
         "images": [
-          "images/portfolio/animal-shelter/p1.png",
-          "images/portfolio/animal-shelter/p2.png"
+          "images/projects/jumping-ball/1.png",
+          "images/projects/jumping-ball/2.png"
         ],
         "url": "https://play.google.com/store/apps/details?id=com.dunkbing.JumpingBall",
         "technologies": [
@@ -32,7 +32,10 @@
         "title": "Cyber Purr",
         "startDate": "2021",
         "description": "A simple game I made during training time at gameloft",
-        "images": [],
+        "images": [
+          "images/projects/cyber-purr/1.png",
+          "images/projects/cyber-purr/2.png"
+        ],
         "url": "https://github.com/dunkbing/cyber-purr",
         "technologies": [
           {
@@ -40,6 +43,24 @@
           },
           {
             "name": "C#"
+          }
+        ]
+      },
+      {
+        "title": "My Portfolio",
+        "startDate": "2021",
+        "description": "A portfolio page made with react",
+        "images": [
+          "images/projects/portfolio/1.png",
+          "images/projects/portfolio/2.png"
+        ],
+        "url": "https://github.com/dunkbing/dunkbing.github.io",
+        "technologies": [
+          {
+            "name": "Javascript"
+          },
+          {
+            "name": "React"
           }
         ]
       },
