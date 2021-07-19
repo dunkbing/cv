@@ -32,7 +32,10 @@
         "title": "Cyber Purr",
         "startDate": "2021",
         "description": "A simple game I made during training time at gameloft",
-        "images": [],
+        "images": [
+          "images/portfolio/cyber-purr/p1.png",
+          "images/portfolio/cyber-purr/p2.png"
+        ],
         "url": "https://github.com/dunkbing/cyber-purr",
         "technologies": [
           {
