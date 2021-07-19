@@ -15,8 +15,8 @@
         "startDate": "2021",
         "description": "You play as a ball jumping around, trying to survive by not touching the lava.",
         "images": [
-          "images/portfolio/animal-shelter/p1.png",
-          "images/portfolio/animal-shelter/p2.png"
+          "images/portfolio/jumping-ball/p1.png",
+          "images/portfolio/jumping-ball/p2.png"
         ],
         "url": "https://play.google.com/store/apps/details?id=com.dunkbing.JumpingBall",
         "technologies": [
