@@ -1,8 +1,8 @@
 {
-    "basic_info": {
-      "description_header": "Hi",
+    "basicInfo": {
+      "descriptionHeader": "Hi",
       "description": "👋 My name is Binh, I'm a 22 years old computer enthusiast. Currently I’m studying software engineering at FPT University.",
-      "section_name": {
+      "sectionName": {
         "about": "About me",
         "projects": "Projects",
         "skills": "Skills",
@@ -80,7 +80,7 @@
         ]
       }
     ],
-    "experience": [
+    "experiences": [
       {
         "company": "VietIS",
         "title": "NodeJS Intern",

@@ -1,8 +1,8 @@
 {
-    "basic_info": {
+    "basicInfo": {
       "name": "Bùi Đặng Bình",
       "titles": ["Game Developer", "Software Developer"],
-      "social": [
+      "socialNetwork": [
         {
           "name": "github",
           "url": "https://github.com/dunkbing",

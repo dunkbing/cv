@@ -1,8 +1,8 @@
 {
-    "basic_info": {
-      "description_header": "Shin Chào",
+    "basicInfo": {
+      "descriptionHeader": "Shin Chào",
       "description": "👋 Mình là Bình, 22 tuổi. Hiện đang theo học ngành kỹ thuật phần mềm ở Đại học FPT.",
-      "section_name": {
+      "sectionName": {
         "about": "Giới thiệu",
         "projects": "Sản phẩm",
         "skills": "Kỹ năng",
@@ -21,10 +21,12 @@
         "url": "https://play.google.com/store/apps/details?id=com.dunkbing.JumpingBall",
         "technologies": [
           {
-            "name": "Unity"
+            "name": "Unity",
+            "class": ""
           },
           {
-            "name": "C#"
+            "name": "C#",
+            "class": ""
           }
         ]
       },
@@ -80,7 +82,7 @@
         ]
       }
     ],
-    "experience": [
+    "experiences": [
       {
         "company": "VietIS",
         "title": "NodeJS Intern",
